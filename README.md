@@ -2,7 +2,7 @@
 
 This project estimates time-varying market beta for a Korean equity ETF using Bayesian conditional beta models and a two-regime Markov switching framework. The analysis focuses on whether market uncertainty, proxied by VKOSPI, changes beta exposure and regime transition dynamics.
 
-The main empirical target is KODEX Semiconductor ETF excess returns relative to KOSPI200 excess returns. The workflow compares a static CAPM baseline, rolling-window CAPM, Bayesian conditional beta models with Normal and Student-t errors, and a Markov switching extension with VKOSPI-dependent transition probabilities.
+The main empirical target is TIGER Semiconductor ETF excess returns relative to KOSPI200 excess returns. The workflow compares a static CAPM baseline, rolling-window CAPM, Bayesian conditional beta models with Normal and Student-t errors, and a Markov switching extension with VKOSPI-dependent transition probabilities.
 
 ## Research Question
 
